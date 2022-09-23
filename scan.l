@@ -1,7 +1,7 @@
 /* Coloque aqui definições regulares */
 
 WS	[ \t\n]
-
+/*Test Commit */
 
 %%
     /* Padrões e ações. Nesta seção, comentários devem ter um tab antes */
